@@ -13,6 +13,8 @@
 
 效果示例如下
 
+<img src="https://cdn.jsdelivr.net/gh/Ubpa/USTC_CG_image@master/Homeworks/02_ImageWarping/warp_demo.jpg"  alt="warp_demo.jpg" />
+
 ![warp_demo.jpg](https://cdn.jsdelivr.net/gh/Ubpa/USTC_CG_image@master/Homeworks/02_ImageWarping/warp_demo.jpg)
 
 交互示例如下
